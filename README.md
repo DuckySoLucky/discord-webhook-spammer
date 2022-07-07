@@ -1,2 +1,3 @@
-# discord-webhook-spammer
+# Discord Webhook Spammer
+
 Discord Webhook spammer made using NodeJS.
